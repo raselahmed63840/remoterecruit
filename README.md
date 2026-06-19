@@ -42,3 +42,17 @@ Then test the preview URL in Chrome Incognito mode with extensions disabled.
 ## Known notes
 
 Chrome extensions and browser profile storage can affect Lighthouse performance scores. Use Incognito mode or a clean Chrome profile for the final audit.
+
+## Project Screenshots
+
+### Desktop View
+
+![Desktop View](screenshots/desktop.png)
+
+### Mobile View
+
+![Mobile View](screenshots/mobile.png)
+
+### Lighthouse Score
+
+![Lighthouse Score](screenshots/lighthouse.png)
